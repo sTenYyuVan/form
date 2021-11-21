@@ -1,3 +1,4 @@
+<?php>
 <!DOCTYPE html>
 <html>
     <form action="connection.php" method="POST" novalidate>
@@ -17,3 +18,4 @@
 
     </form>
 </html>
+<?>
